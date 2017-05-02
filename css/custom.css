@@ -1,0 +1,69 @@
+@media (max-width: 767px) {
+    .sections {
+        padding-top: 20%;
+        height: 100%;
+    }
+    
+    }    html,body {
+    height: 70%;
+    background: lightblue;   /* Standard syntax */ 
+}
+
+.navbar {
+    color: black;
+    background: white;
+}
+
+ .navbar-brand {
+    color: black;
+}
+
+                .sections {
+    padding-top: 5%;
+    height: 100%;
+}
+
+
+
+            .jumbotron {
+        margin-top: -5%;
+    }
+}
+
+@media (min-height: 768px) and (max-width: 991px) {
+    
+}
+.brand {
+    margin-top: 0.40%;
+}
+#section2 {
+    background: lightblue;
+    /* Standard syntax */
+}
+
+
+.thumbnail      
+.caption {
+    padding: inherit;
+    color: #333;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#Login {
+    width: 75%;
+}
+
+.secondary {
+    background: #b9b9b9;
+    border-radius: 3px;
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: inherit;
+    color: inherit;
+    background-color: inherit;
+}
